@@ -3,8 +3,6 @@
 // Mayhaps a tiny bit unethical, but this source is just too good :)
 // If you are copying this code please use precautions so they do not change their api.
 
-
-
 export const iv = atob('d0VpcGhUbiE=');
 export const key = atob('MTIzZDZjZWRmNjI2ZHk1NDIzM2FhMXc2');
 export const apiUrls = [
